@@ -1,0 +1,31 @@
+{
+  "name": "webpack-loader-demo",
+  "version": "1.0.0",
+  "description": "优雅的写一个webpack的loader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yill625/webpack-loader-demo.git"
+  },
+  "keywords": [
+    "loader",
+    "webpack"
+  ],
+  "author": "Ivan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Yill625/webpack-loader-demo/issues"
+  },
+  "homepage": "https://github.com/Yill625/webpack-loader-demo#readme",
+  "devDependencies": {
+    "markdown-it": "^13.0.1",
+    "webpack": "^5.73.0",
+    "webpack-cli": "^4.10.0"
+  },
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
